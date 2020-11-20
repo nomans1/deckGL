@@ -1,0 +1,890 @@
+{
+    "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.391872, 53.352373] },
+      "properties": { "name": "Unit 18B Liffey Valley SC  Dublin" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.242454, 53.286759] },
+      "properties": { "name": "Unit 3/15 Dundrum SC  Dundrum" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.267471, 53.289726] },
+      "properties": { "name": "2a Nutgrove SC Rathfarnham" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.260586, 53.340282] },
+      "properties": { "name": "48 Grafton Street  Dublin" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.70686, 52.26943] },
+      "properties": { "name": "Unit 5 The Square  Tralee" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.568403, 52.501828] },
+      "properties": { "name": "1 Slaney St Enniscorthy Co Wexford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.371853, 53.286705] },
+      "properties": { "name": "Unit 366b The Square SC, Tallaght" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.523885, 53.800067] },
+      "properties": { "name": "James Street Westport Co Mayo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.687688, 53.653972] },
+      "properties": { "name": "Unit 13  Navan SC" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [9.506755, 52.059567] },
+      "properties": { "name": "8 College Street Killarney Co Kerry" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.298943, 53.03394] },
+      "properties": { "name": "Lyster Lane Portlaoise Co Laois" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.391246, 53.348636] },
+      "properties": { "name": "Carphone Warehouse - Liffey Valley" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.626065, 52.664972] },
+      "properties": { "name": "Carphone Warehouse - Arthurs Quay" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.399925, 53.510902] },
+      "properties": { "name": "35 Killegland Street Ashbourne" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.748362, 53.298454] },
+      "properties": { "name": "Old Church St Athenry Co Galway " },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.047721, 53.280464] },
+      "properties": {
+        "name": "Unit 16 Galway Shopping Center - Headford Road"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.097868, 54.655444] },
+      "properties": { "name": "Main Street Donegal Town Co Donegal" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.219006, 53.453768] },
+      "properties": { "name": "The Pavillions  Swords" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.25381, 52.653445] },
+      "properties": { "name": "52 The High St,  Kilkenny Co Kilkenny" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.462579, 52.339237] },
+      "properties": { "name": "39 Main Street  Wexford Town" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.109701, 53.203375] },
+      "properties": { "name": "95 Main St Bray Co Wicklow" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.047002, 53.280997] },
+      "properties": { "name": "Carphone Warehouse - Headford Road" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.814224, 52.679321] },
+      "properties": { "name": "Carphone Warehouse - Thurles" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.929072, 52.835929] },
+      "properties": { "name": "3 Potato Market Carlow Town" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.15516, 54.113337] },
+      "properties": { "name": "Bridge Street Ballina  Co Mayo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.904613, 52.17666] },
+      "properties": { "name": "Strand Street Kanturk Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.73672, 51.745085] },
+      "properties": { "name": "85 South Main St Bandon Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.390181, 53.393] },
+      "properties": { "name": "Unit 132 Blanchardstown SC  Dublin 15" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.645866, 52.640575] },
+      "properties": { "name": "Unit 24A Crescent SC  Limerick" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.135066, 53.292484] },
+      "properties": { "name": "Head Office, Rathcoole" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.959092, 51.904721] },
+      "properties": { "name": "Macroom" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.155004, 54.11562] },
+      "properties": { "name": "Market Square Castlebar Co Mayo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.453735, 55.13474] },
+      "properties": { "name": "Main Street Buncrana Co Donegal" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.361466, 53.991199] },
+      "properties": { "name": "Town Hall Street Cavan Town Co Cavan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.494277, 53.274266] },
+      "properties": { "name": "Unit 1Bridge Centre" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.47041, 51.898095] },
+      "properties": { "name": "109 Oliver Plunkett Street  Cork City" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.268845, 51.549332] },
+      "properties": { "name": "12 bridge st Skibbereen  Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.890787, 51.62323] },
+      "properties": { "name": "38 Pearse St  Clonakilty Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.475269, 54.270893] },
+      "properties": { "name": "1 Johnston Court Sligo Co Sligo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.274314, 52.137906] },
+      "properties": { "name": "13 Patrick St Fermoy Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.702041, 53.655999] },
+      "properties": { "name": "Carphone Warehouse - Navan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.933621, 53.420028] },
+      "properties": { "name": "Golden Island SC  Athlone" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.190014, 53.630948] },
+      "properties": { "name": "Main Street Roscommon Co Roscommon" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.222807, 53.623313] },
+      "properties": { "name": "Main Street Ballinrobe Co Mayo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.477946, 54.273384] },
+      "properties": { "name": "Carphone Warehouse - Sligo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.540198, 53.857757] },
+      "properties": { "name": "Market Street, Ardee" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.181875, 53.300857] },
+      "properties": { "name": "Unit 8 Frascati Shopping Centre  Blackrock" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.265663, 53.347888] },
+      "properties": { "name": "Currys PC World (CPW) - Jervis DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.291873, 52.676517] },
+      "properties": { "name": "11  Main Street Gorey Co Wexford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.398925, 54.000921] },
+      "properties": { "name": "Marshes Shopping Centre, Dundalk" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.624434, 52.090676] },
+      "properties": {
+        "name": "Unit 22 Dungarvan Shopping Centre Dungarvan Co Waterford"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.39243, 51.813823] },
+      "properties": {
+        "name": "Super Value Shopping Centre, (Barry Colins) Carrigaline Co Cork "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.645044, 52.137306] },
+      "properties": { "name": "36 Bank Place Mallow Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.263171, 53.349433] },
+      "properties": { "name": "51 Henry Street  Dublin" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.034193, 53.285235] },
+      "properties": { "name": "Tower House, Tuam Road Galway Co Galway" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.486629, 52.447168] },
+      "properties": { "name": "11 Market Square Listowel Co Kerry" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.148162, 52.798876] },
+      "properties": {
+        "name": "Kiosk 2 Bridgewater Shopping Centre Arklow Co Wicklow"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.267784, 53.289957] },
+      "properties": { "name": "Carphone Warehouse - Nutgrove" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.797603, 53.177595] },
+      "properties": { "name": "Unit 1 Whitewater SC  Newbridge" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.528881, 54.015752] },
+      "properties": { "name": "Main Street Killeshandra Co Cavan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.11102, 52.260905] },
+      "properties": { "name": "5 Blackfriars Waterford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.982653, 52.843657] },
+      "properties": { "name": "20 O'Connell Street  Ennis" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.593836, 53.381824] },
+      "properties": {
+        "name": "Manor west shopping centre Maynooth Co Kildare"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.568797, 53.198582] },
+      "properties": { "name": "Main Street Loughrea Co Galway" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.678424, 52.263238] },
+      "properties": { "name": "Carphone Warehouse - Tralee" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.781197, 54.799594] },
+      "properties": { "name": "Main Street Ballybofey Co Donegal" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.718857, 53.97443] },
+      "properties": { "name": "Convent Hill, Carrickmacross" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.37128, 53.286802] },
+      "properties": { "name": "Carphone Warehouse - Tallaght" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.8011, 53.728684] },
+      "properties": { "name": "Main Street Longford Co Longford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.199271, 52.862331] },
+      "properties": { "name": "12 Kenyon Street  Nenagh Co Tipperary" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.935854, 53.424032] },
+      "properties": { "name": "Athlone Town Centre Athlone Co Westmeath" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.701754, 52.353551] },
+      "properties": { "name": "10 Cladstone Street,  Clonmel Co Tipperary" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.508098, 51.880652] },
+      "properties": { "name": "Unit 23 Wilton SC Cork City" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.352226, 53.714563] },
+      "properties": { "name": "Unit 13, Drogheda Town Centre" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.662557, 53.219134] },
+      "properties": { "name": "7 North Main Street Naas Co Kildare" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.391246, 53.348636] },
+      "properties": { "name": "Currys PC World (CPW) - Liffey DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.173373, 51.914816] },
+      "properties": { "name": "86 Main Street Middleton Co Cork" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.851605, 53.515821] },
+      "properties": { "name": "Shop Street Tuam Co Galway" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.799763, 52.95488] },
+      "properties": { "name": "Unit 1 Midlands House Roscrea Co Tipperary" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.185026, 53.250192] },
+      "properties": { "name": "Currys PC World (CPW) - Carrickmines DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.98265, 52.991278] },
+      "properties": { "name": "1 Emily Square Athy Co Kildare" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.095334, 53.943573] },
+      "properties": { "name": "Bridge Street Carrick on Shannon Co Leitrim" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.810805, 52.675309] },
+      "properties": {
+        "name": "Unit 1, Thurles Shopping Centre Thurles Co Tipperary"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.661177, 53.239974] },
+      "properties": {
+        "name": "Tesco Shopping Centre , Monread rd Naas Co Kildare"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.592654, 51.888705] },
+      "properties": { "name": "Carphone Warehouse - Ballincollig" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.625945, 52.664263] },
+      "properties": { "name": "3 O'Connell Street  Limerick" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.396262, 51.885919] },
+      "properties": { "name": "Unit 29 Mahon Point SC  Mahon" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.878567, 52.710769] },
+      "properties": { "name": "Unit 7 Sky Court SC  Shannon  Co Clare" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.725483, 54.953673] },
+      "properties": {
+        "name": "Unit 26, Letterkenny Shopping Centre Letterkenny Co Donegal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.202087, 53.271797] },
+      "properties": { "name": "Customer Experience Zone" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.971975, 54.246595] },
+      "properties": { "name": "Dawson Street Monaghan Co Monaghan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.441656, 54.636985] },
+      "properties": { "name": "Main Street Killybegs Co Donegal" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.508372, 51.880901] },
+      "properties": { "name": "Carphone Warehouse - Wilton" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.99884, 53.719354] },
+      "properties": { "name": "Main St Claremorris Co Mayo" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.496618, 52.062903] },
+      "properties": { "name": "Carphone Warehouse - Killarney" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.935491, 53.423968] },
+      "properties": { "name": "Carphone Warehouse - Athlone" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.705986, 52.269511] },
+      "properties": { "name": "Carphone Warehouse - Tralee 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.401084, 53.511475] },
+      "properties": { "name": "Carphone Warehouse - Ashbourne" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.248229, 53.391977] },
+      "properties": { "name": "Unit 209a Omni Shopping Centre  Santry" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.077898, 53.946058] },
+      "properties": { "name": "Carphone Warehouse - Carrick On Shan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.59406, 53.381749] },
+      "properties": { "name": "Carphone Warehouse - Maynooth" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.944277, 52.39567] },
+      "properties": {
+        "name": "1 Mary Street New Ross Co Wexford New Ross  Co Wexford"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.224373, 53.330774] },
+      "properties": { "name": "Society Street Ballinasloe Co Galway" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.241371, 53.286713] },
+      "properties": { "name": "Carphone Warehouse - Dundrum" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.848749, 51.954721] },
+      "properties": { "name": "126 North Main St Youghal Co Cork " },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.059836, 52.451876] },
+      "properties": { "name": "The Market Yard Newcastle West Co Limerick" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.135066, 53.292484] },
+      "properties": { "name": "Dun Laoighre" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.804604, 53.741052] },
+      "properties": { "name": "Carphone Warehouse - Longford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.471283, 51.915286] },
+      "properties": { "name": "Carphone Warehouse - Blackpool" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.929077, 52.834868] },
+      "properties": { "name": "Carphone Warehouse - Carlow" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.647045, 52.641026] },
+      "properties": { "name": "Carphone Warehouse - Crescent 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.935791, 53.423988] },
+      "properties": { "name": "Carphone Warehouse - Athlone 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.390105, 53.72804] },
+      "properties": { "name": "Carphone Warehouse - Drogheda 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.592403, 52.661881] },
+      "properties": { "name": "Carphone Warehouse - Parkway" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.473852, 51.898426] },
+      "properties": { "name": "Carphone Warehouse - Patrick Street 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.35935, 53.992731] },
+      "properties": { "name": "Carphone Warehouse - Cavan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.661067, 52.669896] },
+      "properties": { "name": "Carphone Warehouse - Jetland" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.390476, 53.393426] },
+      "properties": { "name": "Carphone Warehouse - Blanchardstown" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.799042, 53.179321] },
+      "properties": { "name": "Carphone Warehouse - Newbridge" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.33984, 53.527793] },
+      "properties": { "name": "Carphone Warehouse - Mullingar" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.050826, 53.274324] },
+      "properties": { "name": "2 Williamsgate St  Eyre Square" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.050108, 53.273288] },
+      "properties": { "name": "Carphone Warehouse - Eyre Square" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.9508, 53.943006] },
+      "properties": { "name": "Market Street Swinford Co Mayo " },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.729437, 54.94682] },
+      "properties": { "name": "Carphone Warehouse - Letterkenny" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.041431, 52.980281] },
+      "properties": { "name": "6 main st, Wicklow Co Wicklow" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.389018, 53.395277] },
+      "properties": { "name": "Currys PC World (CPW) - Blanch DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.686162, 53.653487] },
+      "properties": { "name": "Currys PC World (CPW) - Navan DSG 3in1" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.593249, 52.661571] },
+      "properties": { "name": "Currys PC World (CPW) - Parkway DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.269737, 52.26772] },
+      "properties": {
+        "name": "17 Lower Cork Street Mitchelstown Co Cork Michelstown Co Cork"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.654854, 52.655475] },
+      "properties": { "name": "Main Street Bunclody Co Wexford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.701905, 52.353992] },
+      "properties": { "name": "Carphone Warehouse - Clonmel" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.264189, 53.349117] },
+      "properties": { "name": "Carphone Warehouse - Henry Street" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.303296, 53.404226] },
+      "properties": { "name": "Carphone Warehouse - Finglas" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.390559, 53.353077] },
+      "properties": { "name": "Carphone Warehouse - Clondalkin" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.167816, 52.244787] },
+      "properties": { "name": "Currys PC World (CPW) - Waterford DSG 3in1" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.361354, 54.950485] },
+      "properties": { "name": "Main Street Dungloe Co Donegal" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.787587, 52.107613] },
+      "properties": { "name": "14 Mill Road Killorglin Co Kerry" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.049339, 53.281404] },
+      "properties": { "name": "Currys PC World (CPW) - Galway DSG " },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.111871, 52.261295] },
+      "properties": { "name": "Carphone Warehouse - Waterford" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.404711, 54.006513] },
+      "properties": { "name": "Unit 5, Long Walk SC, Dundalk" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.969613, 54.246791] },
+      "properties": { "name": "Carphone Warehouse - Monaghan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.06369, 53.144196] },
+      "properties": { "name": "Carphone Warehouse - Greystones" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.265596, 53.322106] },
+      "properties": { "name": "Carphone Warehouse - Rathmines" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.056273, 53.341933] },
+      "properties": { "name": "Carphone Warehouse - Edenderry" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.395887, 51.885823] },
+      "properties": { "name": "Carphone Warehouse - Mahon Point" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.296302, 53.031462] },
+      "properties": { "name": "Carphone Warehouse - Portlaoise" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.260111, 53.341423] },
+      "properties": { "name": "Carphone Warehouse - Grafton Street" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.301127, 53.855595] },
+      "properties": { "name": "Carphone Warehouse - Castlebar" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.176989, 52.478307] },
+      "properties": { "name": "Carphone Warehouse - Tipperary Town" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.224043, 53.447207] },
+      "properties": { "name": "Currys PC World (CPW) - Airside DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.492634, 53.275354] },
+      "properties": { "name": "Carphone Warehouse - Tullamore" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.621831, 52.08998] },
+      "properties": { "name": "Carphone Warehouse - Dungarvan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.243149, 52.654895] },
+      "properties": { "name": "Carphone Warehouse - Kilkenny" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.40309, 51.884803] },
+      "properties": { "name": "Currys PC World (CPW) - Cork DSG" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.254736, 52.652975] },
+      "properties": { "name": "Carphone Warehouse - Kilkenny 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.735767, 52.356147] },
+      "properties": { "name": "Carphone Warehouse - Clonmel 2" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-9.05247, 53.272999] },
+      "properties": { "name": "Carphone Warehouse - Shop Street" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.218669, 53.454141] },
+      "properties": { "name": "Carphone Warehouse - Swords" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.21389, 53.395974] },
+      "properties": { "name": "Carphone Warehouse - Northside" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-7.339582, 53.527739] },
+      "properties": { "name": "18 Harbour Place Shopping Centre, Mullingar" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.196096, 53.607279] },
+      "properties": { "name": "Carphone Warehouse - Balbriggan" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.793642, 53.554403] },
+      "properties": { "name": "Emmet Street, Trim" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.402049, 54.005187] },
+      "properties": { "name": "Carphone Warehouse - Dundalk" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.345473, 53.714024] },
+      "properties": { "name": "Carphone Warehouse - Drogheda" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.296722, 52.672383] },
+      "properties": { "name": "Carphone Warehouse - Gorey" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.569733, 52.502877] },
+      "properties": { "name": "Carphone Warehouse - Enniscorthy" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.260863, 53.34979] },
+      "properties": { "name": "32 Henry Street Dublin" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.6439, 52.136914] },
+      "properties": { "name": "Carphone Warehouse - Mallow" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.248023, 53.391604] },
+      "properties": { "name": "Carphone Warehouse - Omni Park" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.181343, 53.633127] },
+      "properties": { "name": "Carphone Warehouse - Roscommon" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-8.173489, 51.915203] },
+      "properties": { "name": "Carphone Warehouse - Midleton" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.659508, 53.220668] },
+      "properties": { "name": "Carphone Warehouse - Naas" },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [-6.377554, 53.988247] },
+      "properties": { "name": "Currys PC World (CPW) - Dundalk DSG" },
+      "type": "Feature"
+    }
+  ]
+}
